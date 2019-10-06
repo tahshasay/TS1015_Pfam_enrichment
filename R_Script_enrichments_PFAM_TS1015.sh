@@ -1,8 +1,9 @@
 
 #This script is supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 #
-#To ascertain the over-represented functional domains, a Pfam enrichment analysis was performed on the sPLS-DA gene list (see above) 
+#To ascertain the over-represented functional domains, a Pfam enrichment analysis was performed on the sPLS-DA gene list 
 # against a background reference (all genes in the genome) using a previously published R script (Chandran et al., 2009).
+
 # Reference: Chandran, D., Tai, Y. C., Hather, G., Dewdney, J., Denoux, C., Burgess, D. G., . . . Wildermuth, M. C. (2009). Temporal global expression data reveal known and novel salicylate-impacted processes and regulators mediating powdery mildew growth and reproduction on Arabidopsis. Plant Physiology, 149(3), 1435-1451. doi:10.1104/pp.108.132985
 
 

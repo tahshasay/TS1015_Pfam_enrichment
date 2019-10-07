@@ -1,6 +1,12 @@
 # TS1015_Pfam_enrichment
 
-#These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+These data and scripts are supplement to:
+
+Say & Degnan (in 1st review) Molecular and behavioural evidence that interdependent photo- and chemo-sensory systems regulate larval settlement in a marine sponge. Molecular Ecology. 
+
+A preprint is available at: Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+
+
 
 #To ascertain the over-represented functional domains, a Pfam enrichment analysis was performed on the sPLS-DA gene list (see above) against a background reference (all genes in the genome) using a previously published R script (Chandran et al., 2009); see additional supplementary data here. 
 
